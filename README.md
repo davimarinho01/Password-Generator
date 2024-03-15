@@ -235,4 +235,4 @@
         document.querySelector("#renew").addEventListener("click", generatePassword)
 
         
-        generatePassword() // Chamada da função generatePassword para que a senha senha atualizada junto à página
+        generatePassword() // Chamada da função generatePassword para que a senha seja atualizada junto à página
